@@ -4,9 +4,12 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=GRC+Analyst+in+Training;Security+Policy+%26+Risk+Management+Enthusiast)](https://github.com/cyristal-gems)
 </div>
 
-# 📌 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello GIF" style="max-width:100%; height:auto;">
+</div>
 
-I bring over **5 years of hands-on experience** in threat detection, incident management, and security operations. I have a proven track record of identifying and mitigating security risks—implementing advanced security protocols and leveraging real-time intelligence to strengthen organizational defenses and safeguard critical infrastructures. 
+# 📌 About Me
+I bring over **5 years of hands-on experience** in threat detection, incident management, and security operations with a proven track record of identifying and mitigating security risks—implementing advanced security protocols and leveraging real-time intelligence to strengthen organizational defenses and safeguard critical infrastructures. 
 
 Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** with a focus on industry standards and security frameworks. My goal is to help organizations manage risks and meet compliance requirements by combining my technical background with strategic risk management insights.
 
@@ -30,7 +33,6 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 ---
 
 ## 📂 Projects & Labs
-
 - **Compliance & Risk Assessment Case Studies**  
   ![Case Studies](https://img.shields.io/badge/Case_Studies-Documentation-orange)
 - **Creating Security Policy Templates**  
@@ -42,7 +44,7 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 
 ## 📜 Certifications & Training
 
-### Certifications:
+### Certifications (so far):
 - [![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
 - [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
 - [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
@@ -53,7 +55,7 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 - ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green?style=for-the-badge)  
 - ![Google Project Management Professional](https://img.shields.io/badge/Google-Project%20Management%20Professional-red?style=for-the-badge)
 
-### Training:
+### Training (so far):
 - [![TryHackMe: Cyber Security 101 Path](https://img.shields.io/badge/TryHackMe-Cyber%20Security%20101-blue?style=for-the-badge)](https://tryhackme.com/)
 - [![TryHackMe: Introduction to Cybersecurity Path](https://img.shields.io/badge/TryHackMe-Introduction%20to%20Cybersecurity-blue?style=for-the-badge)](https://tryhackme.com/)
 
@@ -65,7 +67,14 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 - **Curate GRC Resources:** Build a comprehensive repository of best practices and tools in governance, risk, and compliance.
 - **Foster Industry Connections:** Actively network with GRC professionals and participate in relevant training and conferences.
 
+---
+
+## 🎉 Hobbies & Interests 
+- I’m a huge pro wrestling fan and regularly follow promotions such as **AEW**, **WWE**, and **NJPW**
+- I love horror movies. My favorite franchises include **Scream**, **Saw**, and **Terrifier**.
+- I can also be found playing Animal Crossing, Super Mario or another video game via Switch or PlayStation.
+
+---
 📫 **Connect with me:**  
 🔗 GitHub: [github.com/cyristal-gems](https://github.com/cyristal-gems)  
 💼 LinkedIn: [linkedin.com/in/cyristalj](https://linkedin.com/in/cyristalj)  
-```
