@@ -87,3 +87,4 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 📫 **Connect with me:**  
 🔗 GitHub: [github.com/cyristal-gems](https://github.com/cyristal-gems)  
 💼 LinkedIn: [linkedin.com/in/cyristalj](https://linkedin.com/in/cyristalj)  
+🔰 TryHackMe: [tryhackme.com/p/ceceisgod](https://tryhackme.com/p/ceceisgod)
