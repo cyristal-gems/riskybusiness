@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello GIF" style="max-width:100%; height:auto;">
 </div>
 
+<hr>
+
 # 📌 About Me
 I bring over **5 years of hands-on experience** in threat detection, incident management, and security operations with a proven track record of identifying and mitigating security risks—implementing advanced security protocols and leveraging real-time intelligence to strengthen organizational defenses and safeguard critical infrastructures. 
 
@@ -75,6 +77,13 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 - I can also be found playing Animal Crossing, Super Mario or another video game via Switch or PlayStation.
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="The Office GIF" style="max-width:100%; height:auto;">
+</div>
+
+---
+
 📫 **Connect with me:**  
 🔗 GitHub: [github.com/cyristal-gems](https://github.com/cyristal-gems)  
 💼 LinkedIn: [linkedin.com/in/cyristalj](https://linkedin.com/in/cyristalj)  
