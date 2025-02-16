@@ -50,11 +50,11 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 - [![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
 - [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
 - [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/)
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+- [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - ![Cisco Cybersecurity Essentials](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-blue?style=for-the-badge)  
 - ![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-blue?style=for-the-badge)  
+- ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green?style=for-the-badge)
 - ![Google IT Support Professional](https://img.shields.io/badge/Google-IT%20Support%20Professional-red?style=for-the-badge)
-- ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-green?style=for-the-badge)  
 - ![Google Project Management Professional](https://img.shields.io/badge/Google-Project%20Management%20Professional-red?style=for-the-badge)
 
 ### Training (so far):
