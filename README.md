@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 24px; font-family: Arial, sans-serif;">Hi👋🏽, I'm Cyristal N. Joseph.</p>
+  <p style="font-size: 24px; font-family: Helvetica, sans-serif;">Hi👋🏽, I'm Cyristal N. Joseph.</p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=GRC+Analyst+in+Training;Security+Policy+%26+Risk+Management+Enthusiast)](https://github.com/cyristal-gems)
 </div>
@@ -74,7 +74,7 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 ## 🎉 Hobbies & Interests 
 - I’m a huge pro wrestling fan and regularly follow promotions such as **AEW**, **WWE**, and **NJPW**
 - I love horror movies. My favorite franchises include **Scream**, **Saw**, and **Terrifier**.
-- I can also be found playing Animal Crossing, Super Mario or another video game via Switch or PlayStation.
+- I can also be found playing **Animal Crossing**, **Super Mario**, **Dark Souls** or another video game via Nintendo Switch or PlayStation.
 
 ---
 
