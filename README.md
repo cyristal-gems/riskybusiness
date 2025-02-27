@@ -71,13 +71,6 @@ Now, I'm developing my expertise in **Governance, Risk, and Compliance (GRC)** w
 
 ---
 
-## 🎉 Hobbies & Interests 
-- I’m a huge pro wrestling fan and regularly follow promotions such as **AEW**, **WWE**, and **NJPW**
-- I love horror movies. My favorite franchises include **Scream**, **Saw**, and **Terrifier**.
-- I can also be found playing **Animal Crossing**, **Super Mario**, **Dark Souls** or another video game via Nintendo Switch or PlayStation.
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="The Office GIF" style="max-width:100%; height:auto;">
 </div>
